@@ -1,0 +1,8 @@
+.gradle/
+build/
+bin/
+*.mv.db
+*.trace.db
+.idea/
+out/
+*.iml
